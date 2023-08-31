@@ -1,2 +1,2 @@
-# TechnoHacks2
+# Calculator app
 Calculator app
